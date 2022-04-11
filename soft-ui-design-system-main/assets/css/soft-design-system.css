@@ -241,7 +241,7 @@ small,
 mark,
 .mark {
   padding: 0.2em;
-  background-color: #fcf8e3;
+  background-color: #14b2dabd;
 }
 
 sub,
@@ -261,12 +261,12 @@ sup {
 }
 
 a {
-  color: #cb0c9f;
+  color: #280569;
   text-decoration: none;
 }
 
 a:hover {
-  color: #830866;
+  color: #075c55a4;
   text-decoration: none;
 }
 
@@ -304,7 +304,7 @@ pre code {
 
 code {
   font-size: 0.875em;
-  color: #d63384;
+  color: #0c3d99d7d7;
   word-wrap: break-word;
 }
 
@@ -3586,8 +3586,8 @@ fieldset:disabled .btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #cb0c9f;
-  border-color: #cb0c9f;
+  background-color: #05e23ce1;
+  border-color: #ffffff;
 }
 
 .btn-primary:hover {
